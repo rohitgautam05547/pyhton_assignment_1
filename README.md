@@ -1,2 +1,2 @@
-# pyhton_assignment_1
+# pyhton_assignment
 this is my first assignment in python
